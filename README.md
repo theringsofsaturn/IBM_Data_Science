@@ -1,4 +1,3 @@
-</head>
 <body>
     <h1>IBM Data Science Professional Certificate Course</h1>
     This repository contains my notebooks and projects on IBM Data Science Experience (IBM Watson Studio) for the course <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate.</a> <br>
