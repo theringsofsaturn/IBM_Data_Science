@@ -10,6 +10,6 @@
     This repository contains my notebooks and projects on IBM Data Science Experience (IBM Watson Studio) for the course <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate.</a> <br>
     
 
-<i>I am interested in Data Science because Data Science is the future! I am very excited because this field is a journey of discovery, insights, and innovation. Data Science change our world in amazing ways, from making new life-saving medicines to self-driving cars. This is a rapidly evolving area, you’ve got to keep learning to keep up. If you’re not, you’re falling behind. It is is incredibly exciting in my view. However Big Data also has negative effects in opinion, such as reducing privacy and security.</i> 
+<p><i>I am interested in Data Science because Data Science is the future! I am very excited because this field is a journey of discovery, insights, and innovation. Data Science change our world in amazing ways, from making new life-saving medicines to self-driving cars. This is a rapidly evolving area, you’ve got to keep learning to keep up. If you’re not, you’re falling behind. It is is incredibly exciting in my view. However Big Data also has negative effects in opinion, such as reducing privacy and security.</i></p>
 </body>
 </html>
